@@ -1,4 +1,5 @@
 **NASA Pic Of The Day Viewer**
+![image](https://github.com/user-attachments/assets/0f9b61c7-3c4b-4fa6-84a4-d77d3cf50dac)
 
 This project was made to aid my application to DataSoc for the technical (IT) director of DataSoc 2025.
 This project fetches and displays the "Astronomy Picture of the Day" (APOD) from the NASA API. It provides a dynamic web page showcasing NASA's daily image or video, along with its title, description, and date.
