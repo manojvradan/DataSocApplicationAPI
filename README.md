@@ -16,3 +16,18 @@ The JavaScript fetch() function is used to make GET requests to the API endpoint
 The fetched data is dynamically displayed on a responsive web page.
 
 The page includes the title, description, and media (image or video) provided by the API, styled for readability and visual appeal.
+
+
+**How to Run the Project**
+
+Clone the repository or download the project files.
+
+https://github.com/manojvradan/DataSocApplicationAPI.git
+
+Navigate to the project folder.
+
+cd DataSocApplicationAPI
+
+Open index.html in any modern web browser.
+
+The page will dynamically fetch and display the Astronomy Picture of the Day from NASA's API.
